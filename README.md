@@ -23,7 +23,7 @@ This blog preview card solution presented here showcases a sleek and responsive 
 ### Links
 
 - Solution URL: [https://github.com/itzvikashgupta/blog-preview-card]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blog-preview-card-soln.netlify.app/]
 
 ## My Process
 
