@@ -17,7 +17,8 @@ This blog preview card solution presented here showcases a sleek and responsive 
 
 ### Screenshot
 
-- Desktop View Screenshot: ![Desktop View:](assets/images/desktop-preview-screenshot.png) - Mobile View Screenshot: ![Mobile View:](assets/images/mobile-preview-screenshot.png)
+- Desktop View Screenshot: ![Desktop View:](assets/images/desktop-preview-screenshot.png)
+- Mobile View Screenshot: ![Mobile View:](assets/images/mobile-preview-screenshot.png)
 
 ### Links
 
