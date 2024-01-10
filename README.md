@@ -22,7 +22,7 @@ This blog preview card solution presented here showcases a sleek and responsive 
 
 ### Links
 
-- Solution URL: [(https://github.com/itzvikashgupta/blog-preview-card)]
+- Solution URL: [https://github.com/itzvikashgupta/blog-preview-card]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
