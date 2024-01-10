@@ -18,11 +18,11 @@ This blog preview card solution presented here showcases a sleek and responsive 
 ### Screenshot
 
 ![Desktop View:](assets/images/desktop-preview-screenshot.png)
-![Mobile View](assets/images/mobile-preview-screenshot.png)
+![Mobile View:](assets/images/mobile-preview-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/itzvikashgupta/blog-preview-card)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
